@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    background: red;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+section {
+    margin-top: 50px;
+    background: #f7f7f7;
+}
+
+h2 {
+
+    text-align: center;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+.btn {
+
+    text-align: center;
+}
+
+button {
+    margin-top: 15px;
+}
+
+#image {
+    max-width: 300px;
+    max-height: 300px;
+}
+
+#picture { 
+    text-align: center;
+}
